@@ -1,1 +1,2 @@
 ECMAScript was created to standardize JavaScript
+I love Interntetapplications
